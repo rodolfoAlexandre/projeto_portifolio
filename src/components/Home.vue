@@ -4,7 +4,7 @@
         <h1><strong>O projeto a seguir utiliza as seguintes dependências</strong></h1>
         <br>
         <h2>Axios (comunicação com API)</h2>
-        <h2>Moment (namipulação de campos datetime)</h2>
+        <h2>Moment (manipulação de campos datetime)</h2>
         <h2>PrimeVue (elementos do layout)</h2>
         <h2>VueRouter (criação de rotas)</h2>
         <h2>Vuetify (elementos do layout)</h2>
